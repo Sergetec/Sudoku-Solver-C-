@@ -1,5 +1,6 @@
 /*
   Lefter Sergiu - 09/04/2022
+  Sudoku Solver
 */
 #include <iostream>
 
