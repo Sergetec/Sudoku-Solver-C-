@@ -1,6 +1,9 @@
 # Sudoku Solver in C++
 
-Works for any correct Sudoku, otherwise it will display a message.
+Works for any correct Sudoku, otherwise it will display an error message.
+- 0 = empty space
+- numbers must contain spaces between them (no commas or anything else)
+- after 9 numbers have been entered, press the "Enter" key and enter the next numbers with the same rules
 
 ## Normal rules apply:
 - Each row must contain the numbers from 1 to 9, without repetitions
