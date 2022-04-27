@@ -5,7 +5,7 @@ Works for any correct Sudoku, otherwise it will display an error message.
 - numbers must contain spaces between them (no commas or anything else)
 - after 9 numbers have been entered, press the "Enter" key and enter the next numbers with the same rules
 
-## Normal rules apply:
+## Normal rules to solve apply:
 - Each row must contain the numbers from 1 to 9, without repetitions
 - Each column must contain the numbers from 1 to 9, without repetitions
 - The digits can only occur once per block *(square)*
